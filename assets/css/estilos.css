@@ -1,0 +1,21 @@
+input,i{
+    margin-bottom: 10px;
+}
+textarea{
+    resize: none;
+}
+.logoff{
+    position: fixed;
+    cursor: pointer;
+}
+.text-center{
+    font-size: 30px;
+    color: rgb(33, 73, 49);
+}
+.text-center{
+    color: rgb(41, 59, 22);
+}
+body{
+    background-image: url('https://i2.wp.com/www.csscodelab.com/wp-content/uploads/2019/11/stripe-hero-background-effect-html-css.png');
+    background-size: 100vw 100vh;
+}
